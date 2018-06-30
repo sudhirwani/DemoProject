@@ -1,3 +1,16 @@
+
+hii how are u ?
+tommorow is sunday hiii  hiihihi
+hey Deepali here. 
+this is tes file
+hii 
+
+this is tes file..edit by nitesh
+today is saterday 
+today date is 30/06/218
+
+New functionality added By SuDhir.
+
 This test file has been created In DJ Alexander on 06/30/2018.
 hii -> Hello
 hey Deepali here. -> Hi Shive here!
@@ -17,3 +30,4 @@ git add <file name>
 git commit -m "Your commit message"
 git push origin <Your_branch_name>
 Added by kapil at last.
+
